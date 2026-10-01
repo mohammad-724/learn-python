@@ -1,0 +1,40 @@
+MISSION AND VISION OF THE INSTITUTE
+Institute Vision 
+Maharaj Vijayaram Gajapathi Raj College of Engineering strives to become a centre par excellence for technical education where aspiring students can be transformed into skilled and well-rounded professionals with strong understanding of fundamentals, a flair for responsible innovation in engineering practical solutions applying the fundamentals, and confidence and poise to meet the challenges in their chosen professional spheres.
+Institute Mission 
+The management believes imparting quality education in an atmosphere that motivates learning as a social obligation which we owe to the students, their parents/guardians and society at large and hence the effort is to leave no stone unturned in providing the same with all sincerity. 
+Department of ECE Vision
+To be a center of excellence in Electronics and Communication Engineering by making students abreast with contemporary technologies meeting the standards of global industry and to develop them into skillful engineers who are technologically superior with knowledge of core as well as inter disciplinary domains with human values.
+Department of ECE Mission 
+Establish a unique learning environment to enable the students to face global challenges by using local technologies in Electronics and Communications.
+Establish centres of excellence in niche technologies to include the spirit of innovation and creativity in faculty and students.
+Provide the environment for collaborative and inter disciplinary activities that enables students to develop industry ready and entrepreneurial skills.
+Provide ethical and value-based education to serve humanity by developing socially sensitive engineers.
+                             PROGRAM OUTCOMES(POS)
+Engineering Graduates will be able to:
+PO1:Engineering Knowledge: Apply the knowledge of mathematics, science, engineering fundamentals and an engineering specialization to the solution of complex engineering problems.
+PO2: Problem analysis: Identify, formulate, review research literature, and analyze complex engineering problems reaching substantiated conclusions using first principles of mathematics, natural sciences, and engineering sciences.
+PO3: Design/development: Design solutions for complex engineering problems and design system components or processes that meet the specified needs with appropriate consideration for the public health and safety, and the cultural, societal, and environmental considerations.
+PO4: Conduct investigations of complex problems: Use research-based knowledge and research methods including design of experiments, analysis and interpretation of data, and synthesis of the information to provide valid conclusions.
+PO5: Modern tool usage:  Create, select, and apply appropriate techniques, resources, and modern engineering and IT tools including prediction and modelling to complex engineering activities with an understanding of the limitations.
+PO6: The engineer and society: Apply reasoning informed by the contextual knowledge to assess societal, health, safety, legal and cultural issues and the consequent responsibilities relevant to the professional engineering practice.
+PO7: Environment and sustainability: Understand the impact of the professional engineering solutions in societal and environmental contexts, and demonstrate the knowledge of, and need for sustainable development.
+PO8: Ethics: Apply ethical principles and commit to professional ethics and responsibilities and norms of the engineering practice.
+PO9: Individual and teamwork: Function effectively as an individual, and as a member or leader in diverse teams, and in multidisciplinary settings.
+PO10: Communication: Communicate effectively on complex engineering activities with the engineering community and with society at large, such as, being able to comprehend and write effective reports and design documentation make effective presentations and give and receive clear instructions.
+PO11: Project management and finance: Demonstrate knowledge and understanding of the engineering and management principles and apply these to one’s own work, as a member and leader in a team, to manage projects and in multidisciplinary environments.
+PO12: Life-long learning: Recognize the need for and have the preparation and ability to engage in independent and life-long learning in the broadest context of technological change.
+
+PROGRAMME SPECIFIC OUTCOMES:
+PSO1: An ability to design and implement complex systems in the areas related to Analog and Digital Electronics, Communication, Signal processing, RF &amp; Microwave, VLSI and Embedded systems.
+PSO2: Ability to make use of acquired knowledge to be employable and demonstrate leadership and entrepreneurial skills. 
+                                    
+
+
+
+
+ABSTRACT
+This internship was carried out at Sreshtha Semicon Technologies from 11 May 2026 to 11 June 2026 with the objective of gaining practical knowledge and hands-on experience in Embedded Systems, Internet of Things (IoT), Artificial Intelligence (AI), Machine Learning (ML), and Computer Vision technologies. During the internship, various hardware platforms such as Arduino Uno, ESP8266, ESP32, and ESP32-CAM were used along with multiple sensors and communication modules to develop real-time automation and monitoring systems.
+A total of 26 projects were studied and implemented, covering domains such as sensor interfacing, smart agriculture, home automation, security systems, robotics, wireless communication, IoT dashboards, GPS tracking, RFID-based attendance systems, and computer vision applications. These projects provided practical exposure to circuit design, embedded programming, web dashboard development, wireless communication technologies, and real-time data monitoring.
+Software tools included Arduino IDE for embedded programming, Python for application development, OpenCV for computer vision, Machine Learning libraries for intelligent system development, HTML, CSS, and JavaScript for IoT dashboard creation, and serial communication tools for hardware-software integration. The use of these technologies provided practical experience in designing, programming, testing, and deploying real-time smart systems.
+The internship successfully bridged the gap between theoretical engineering concepts and industrial applications while enhancing technical, analytical, problem-solving, debugging, documentation, and project presentation skills. Overall, the internship provided valuable industry-oriented experience and strengthened understanding of modern intelligent automation technologies.
